@@ -31,3 +31,7 @@ The houses located in Suburban area have higher prices than houses located in Do
 
    
    
+<<<<<<< HEAD
+=======
+
+>>>>>>> e43234b735e53010f68bbbd48783fe417f968fc8
